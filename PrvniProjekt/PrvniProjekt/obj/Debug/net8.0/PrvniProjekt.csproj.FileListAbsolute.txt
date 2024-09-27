@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\bin\Debug\net8.0\PrvniProjekt.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\bin\Debug\net8.0\PrvniProjekt.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\bin\Debug\net8.0\PrvniProjekt.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\bin\Debug\net8.0\PrvniProjekt.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\bin\Debug\net8.0\PrvniProjekt.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\refint\PrvniProjekt.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\PrvniProjekt.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\PrvniProjekt\PrvniProjekt\obj\Debug\net8.0\ref\PrvniProjekt.dll
