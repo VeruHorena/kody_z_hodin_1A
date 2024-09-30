@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\kalkulator\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll

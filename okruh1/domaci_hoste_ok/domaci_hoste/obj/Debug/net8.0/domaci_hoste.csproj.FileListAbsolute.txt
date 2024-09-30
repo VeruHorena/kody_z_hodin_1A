@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\refint\domaci_hoste.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\ref\domaci_hoste.dll
