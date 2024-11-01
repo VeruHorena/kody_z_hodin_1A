@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\bin\Debug\net8.0\prevodnik.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\bin\Debug\net8.0\prevodnik.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\bin\Debug\net8.0\prevodnik.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\bin\Debug\net8.0\prevodnik.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\bin\Debug\net8.0\prevodnik.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\refint\prevodnik.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\prevodnik.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\prevodnik\prevodnik\prevodnik\obj\Debug\net8.0\ref\prevodnik.dll
