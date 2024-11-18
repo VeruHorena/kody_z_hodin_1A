@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prevodnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8110b5c8f0d4fa33996c1691a0515cf58de041f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+867087b392e2b034f97a41e4a39763aa70e49520")]
 [assembly: System.Reflection.AssemblyProductAttribute("prevodnik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prevodnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
