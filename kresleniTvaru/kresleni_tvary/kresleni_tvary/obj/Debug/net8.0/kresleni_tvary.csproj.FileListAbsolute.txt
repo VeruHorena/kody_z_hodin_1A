@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\bin\Debug\net8.0\kresleni_tvary.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\bin\Debug\net8.0\kresleni_tvary.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\bin\Debug\net8.0\kresleni_tvary.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\bin\Debug\net8.0\kresleni_tvary.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\bin\Debug\net8.0\kresleni_tvary.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\refint\kresleni_tvary.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\kresleni_tvary.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\kresleniTvaru\kresleni_tvary\kresleni_tvary\obj\Debug\net8.0\ref\kresleni_tvary.dll
