@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\faktorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DD96F5-2850-466B-96A4-1CB7C14235AC}|faktorial\\faktorial.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1a\\faktorial\\faktorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DD96F5-2850-466B-96A4-1CB7C14235AC}|faktorial\\faktorial.csproj|solutionrelative:faktorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\faktorial\\faktorial\\Program.cs",
+              "RelativeDocumentMoniker": "faktorial\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_z_hodin_1A\\faktorial\\faktorial\\Program.cs",
+              "RelativeToolTip": "faktorial\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:21:49.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

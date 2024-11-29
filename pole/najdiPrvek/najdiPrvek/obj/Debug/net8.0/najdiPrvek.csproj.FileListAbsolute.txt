@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\bin\Debug\net8.0\najdiPrvek.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\bin\Debug\net8.0\najdiPrvek.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\bin\Debug\net8.0\najdiPrvek.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\bin\Debug\net8.0\najdiPrvek.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\bin\Debug\net8.0\najdiPrvek.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\refint\najdiPrvek.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\najdiPrvek.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\najdiPrvek\najdiPrvek\obj\Debug\net8.0\ref\najdiPrvek.dll

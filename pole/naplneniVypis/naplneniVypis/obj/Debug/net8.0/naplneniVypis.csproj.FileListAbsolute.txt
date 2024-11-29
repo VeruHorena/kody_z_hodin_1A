@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\bin\Debug\net8.0\naplneniVypis.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\bin\Debug\net8.0\naplneniVypis.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\bin\Debug\net8.0\naplneniVypis.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\bin\Debug\net8.0\naplneniVypis.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\bin\Debug\net8.0\naplneniVypis.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\refint\naplneniVypis.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\naplneniVypis.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\pole\naplneniVypis\naplneniVypis\obj\Debug\net8.0\ref\naplneniVypis.dll
