@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\bin\Debug\net8.0\FiboPole.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\bin\Debug\net8.0\FiboPole.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\bin\Debug\net8.0\FiboPole.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\bin\Debug\net8.0\FiboPole.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\bin\Debug\net8.0\FiboPole.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\refint\FiboPole.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\FiboPole.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\FiboPole\FiboPole\obj\Debug\net8.0\ref\FiboPole.dll
