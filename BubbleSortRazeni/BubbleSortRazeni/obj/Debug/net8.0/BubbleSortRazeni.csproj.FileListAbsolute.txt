@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\bin\Debug\net8.0\BubbleSortRazeni.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\bin\Debug\net8.0\BubbleSortRazeni.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\bin\Debug\net8.0\BubbleSortRazeni.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\bin\Debug\net8.0\BubbleSortRazeni.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\bin\Debug\net8.0\BubbleSortRazeni.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\refint\BubbleSortRazeni.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\BubbleSortRazeni.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\BubbleSortRazeni\BubbleSortRazeni\obj\Debug\net8.0\ref\BubbleSortRazeni.dll
