@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metodyKalkulacka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0c305d1087f3aaff3c538561e58eb869d25d3fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44eb914e0a486e191832fbc98fa7f5e8a5b4fe53")]
 [assembly: System.Reflection.AssemblyProductAttribute("metodyKalkulacka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metodyKalkulacka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
