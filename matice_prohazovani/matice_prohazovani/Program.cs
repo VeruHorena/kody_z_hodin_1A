@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             int[,] matice = {
-            {4, 3, 1},
-            {7, 5, 2},
-            {3, 9, 4}
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}
         };
 
             // Součet všech prvků

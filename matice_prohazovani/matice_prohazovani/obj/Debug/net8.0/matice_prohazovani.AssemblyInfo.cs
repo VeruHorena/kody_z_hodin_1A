@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("matice_prohazovani")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a986a917ffde95b47a5730269b837e4745b7b30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a7b9d333f33db79564ff545270928c9d145bca")]
 [assembly: System.Reflection.AssemblyProductAttribute("matice_prohazovani")]
 [assembly: System.Reflection.AssemblyTitleAttribute("matice_prohazovani")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
