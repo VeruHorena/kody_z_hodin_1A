@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\bin\Debug\net8.0\hledaniSousedu.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\bin\Debug\net8.0\hledaniSousedu.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\bin\Debug\net8.0\hledaniSousedu.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\bin\Debug\net8.0\hledaniSousedu.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\bin\Debug\net8.0\hledaniSousedu.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\refint\hledaniSousedu.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\hledaniSousedu.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\hledaniSousedu\hledaniSousedu\obj\Debug\net8.0\ref\hledaniSousedu.dll
