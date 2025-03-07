@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\bin\Debug\net8.0\dynamicke_struktury.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\bin\Debug\net8.0\dynamicke_struktury.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\bin\Debug\net8.0\dynamicke_struktury.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\bin\Debug\net8.0\dynamicke_struktury.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\bin\Debug\net8.0\dynamicke_struktury.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\refint\dynamicke_struktury.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\dynamicke_struktury.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_z_hodin_1A\dynamicke_struktury\dynamicke_struktury\obj\Debug\net8.0\ref\dynamicke_struktury.dll
