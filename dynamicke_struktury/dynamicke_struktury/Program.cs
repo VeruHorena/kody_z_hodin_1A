@@ -12,18 +12,23 @@
                 {
                     case 1:
                         Console.WriteLine("Zadej jmeno:");
-                        string zadane = Console.ReadLine();
-                        studenti.Add(zadane);
+                     
+                        studenti.Add(Console.ReadLine());
                         Console.WriteLine("Student pridan.");
                         break;
                     case 2:
                         Console.WriteLine("Zadej jmeno pro vyhledani:");
                         string hledane = Console.ReadLine();
-                        if (vyhledej(hledane, studenti) != "")
-                            Console.WriteLine("Nalezen student " + hledane);
-                        else
-                            Console.WriteLine("Student nenalezen.");
+                        /* if (vyhledej(hledane, studenti) != "")
+                             Console.WriteLine("Nalezen student " + hledane);
+                         else
+                             Console.WriteLine("Student nenalezen.");
+                         */
                         
+                        if (studenti.Find(x => x == hledane) != null)
+                            Console.WriteLine("Student nalezen.");
+                        else
+                            Console.WriteLine("Student nenalezen");
                         break;
                     case 3:
                         Console.WriteLine("Zadej jmeno studenta pro odstraneni: ");
@@ -63,7 +68,7 @@
      
         }
 
-        public static string vyhledej (string jmeno, List<string> studenti)
+       /* public static string vyhledej (string jmeno, List<string> studenti)
         {//prozatim nemame co vracet, vratime si alespon jmeno
             string nalezeno = "";
             foreach (String s in studenti)
@@ -72,6 +77,6 @@
                     nalezeno = jmeno;
             }
             return nalezeno;
-        }
+        }*/
     }
 }
